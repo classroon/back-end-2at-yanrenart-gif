@@ -33,7 +33,7 @@ app.listen(3000, () => console.log("Servidor ligado na porta 3000"));
 
 ```
 
-_(Para instalar o cors, digite no terminal:  `npm install cors`)_
+_(Para instalar o cors, digite no terminal:  `npm install cors`)__
 
 ----------
 
